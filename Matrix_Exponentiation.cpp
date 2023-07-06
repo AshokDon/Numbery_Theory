@@ -1,3 +1,7 @@
+//example problems
+//https://codeforces.com/gym/102644/problem/A
+
+
 #include<bits/stdc++.h>
 using namespace std;
 struct Matrix{
